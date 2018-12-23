@@ -1,4 +1,4 @@
-FROM ctalapp/centos7_gcc_7_3_0
+FROM ctalapp/centos7_gcc_730
 
 MAINTAINER Jean J.  <jacquem@lapp.in2p3.fr>
 
